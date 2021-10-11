@@ -7,6 +7,8 @@ from PIL import Image
 import numpy as np
 
 # show | click
+# click mode automatically clicks (obviously)
+# show mode shows image of what it would have clicked 
 mode = 'click'
 
 def click(x, y):
