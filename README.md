@@ -1,2 +1,2 @@
 # QuizletMatchBot
-I made this to ~~ cheat ~~ play quizlet the intended way.
+I made this to ~~cheat~~ play quizlet the intended way.
